@@ -1,7 +1,7 @@
-###### Hello, I'm Ayeshan Oshitha  👋
+## Hello, I'm Ayeshan Oshitha  👋
 
 
-#### :loudspeaker: Personal Stuff
+# :loudspeaker: Personal Stuff
 
 
 
