@@ -1,8 +1,18 @@
-## Hello, I'm Ayeshan Oshitha  👋
+<div align="center">
+  <h2>Hello, I'm Ayeshan Oshitha 👋</h2>
+</div>
 
+<br>
+<br>
 
 # :loudspeaker: Personal Stuff
+- IT undergraduate
+- University of Moratuwa
+- Full Stack Developer
+- Adobe InDesign Expert
+- Fiverr/Upwork Freelance
 
+# :hammer_and_wrench: My Favourite Tools 
 
 
 <!--
