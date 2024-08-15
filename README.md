@@ -6,6 +6,7 @@
 <br>
 
 # :loudspeaker: Personal Stuff
+
 - IT undergraduate
 - University of Moratuwa
 - Full Stack Developer
