@@ -3,7 +3,7 @@
 </div>
 
 <br>
-<br>
+
 
 # :loudspeaker: Personal Stuff
 
