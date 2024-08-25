@@ -6,7 +6,16 @@
 <br>
 
 
-## :loudspeaker: Personal Stuff
+## ☺️ Personal Stuff
+ IT Undergraduate 🎓
+
+ University of Moratuwa 🏫
+
+ Full Stack Developer 💻
+
+ Adobe InDesign Expert 📢
+
+ Fiverr / Upwork Freelancer 💸
 
 
 
@@ -121,7 +130,6 @@
 
 </div>
 
-<br/>
 <hr>
 <br/>
 
