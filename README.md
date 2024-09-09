@@ -7,15 +7,15 @@
 
 
 ## ☺️ Personal Stuff
- IT Undergraduate 🎓
+- IT Undergraduate 🎓
 
- University of Moratuwa 🏫
+- University of Moratuwa 🏫
 
- Full Stack Developer 💻
+ - Full Stack Developer 💻
 
- Adobe InDesign Expert 📢
+- Adobe InDesign Expert 📢
 
- Fiverr / Upwork Freelancer 💸
+- Fiverr / Upwork Freelancer 💸
 
 
 
