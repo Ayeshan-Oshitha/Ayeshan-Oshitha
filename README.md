@@ -6,15 +6,11 @@
 <br>
 
 
-## ☺️ Personal Stuff
+## ☺️ Talking about Personal Stuffs
 - IT Undergraduate 🎓
-
 - University of Moratuwa 🏫
-
- - Full Stack Developer 💻
-
+- Full Stack Developer 💻
 - Adobe InDesign Expert 📢
-
 - Fiverr / Upwork Freelancer 💸
 
 
@@ -164,8 +160,11 @@
 
 </div>
 
+<br>
+<br>
+
 <div align="center">
-	<img src="assets/BottomGifs.gif">
+	<img src="assests/BottomGifs.gif">
 </div>
 
 
