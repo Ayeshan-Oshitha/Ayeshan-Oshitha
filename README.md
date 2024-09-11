@@ -164,6 +164,10 @@
 
 </div>
 
+<div align="center">
+	<img src="assets/BottomGifs.gif">
+</div>
+
 
 <!--
 **Ayeshan-Oshitha/Ayeshan-Oshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
