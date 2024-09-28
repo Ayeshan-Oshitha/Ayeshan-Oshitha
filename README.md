@@ -7,7 +7,6 @@
 
 <p align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?font=Martian+Mono&weight=600&size=48&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=1500&height=200&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Software+Engineer+Undergraduate+%F0%9F%8E%93;Passionate+%F0%9F%92%A1+Tech+Enthusiast;Always+Learning+New+Things+%F0%9F%93%9A%F0%9F%8C%9F;Passionate+%F0%9F%92%A1+Tech+Enthusiast;Love+%E2%9D%A4%EF%B8%8F+Coding+" alt="Typing SVG" />
-
 </p>
 
 
