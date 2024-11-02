@@ -1,5 +1,5 @@
 <p align="center">
-	<a href= "www.ayeshan.me" title="Web"><img src="assests/web.png" alt="Web" width="40" height="40" ></a> &nbsp;
+	<a href= "[www.ayeshan.me](https://www.ayeshan.me/)" title="Web"><img src="assests/web.png" alt="Web" width="40" height="40" ></a> &nbsp;
 	<a href="mailto:#" title="email"><img src="assests/gmail.png" alt="Web" width="40" height="40"></a> &nbsp;
 	<a href="#" title="LinkedIn"><img src="assests/linkedin.png" alt="LinkedIn" width="40" height="40"></a> &nbsp;
 	<a href="https://api.whatsapp.com/send?#" title="WhatsApp"><img src="assests/whatsapp.png" alt="WhatsApp" width="40" height="40"></a> &nbsp;
