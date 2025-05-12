@@ -149,7 +149,7 @@
   <br/>
   ![](https://github-readme-stats.vercel.app/api?username=Ayeshan-Oshitha&theme=jolly&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)
   <br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeshan-Oshitha&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=12)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeshan-Oshitha&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=16)
 
 
   
