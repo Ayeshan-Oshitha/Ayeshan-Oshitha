@@ -151,9 +151,9 @@
   <br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeshan-Oshitha&theme=jolly&hide_border=false&include_all_commits=true&count_private=&layout=compact&langs_count=16&cache_seconds=0)
    <br/>
-  ![Top Langs](https://github-readme-stats-one-psi-94.vercel.app/api/top-langs/?username=Ayeshan-Oshitha&count_private=true&show_org=true&layout=compact&theme=jolly)
+  ![Top Langs](https://github-readme-stats-one-psi-94.vercel.app/api/top-langs/?username=Ayeshan-Oshitha&count_private=true&show_org=true&layout=compact&theme=jolly&cache_seconds=0)
   <br/>
-  ![GitHub Stats](https://github-readme-stats-one-psi-94.vercel.app/api?username=Ayeshan-Oshitha&show_org=true&count_private=true&show_icons=true&theme=jolly)
+  ![GitHub Stats](https://github-readme-stats-one-psi-94.vercel.app/api?username=Ayeshan-Oshitha&show_org=true&count_private=true&show_icons=true&theme=jolly&cache_seconds=0)
 
 
   
