@@ -147,9 +147,9 @@
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Ayeshan-Oshitha&theme=jolly&hide_border=false&disable_animations=false)
   <br/>
-  ![](https://github-readme-stats.vercel.app/api?username=Ayeshan-Oshitha&theme=jolly&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)
+  ![](https://github-readme-stats.vercel.app/api?username=Ayeshan-Oshitha&theme=jolly&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=0)
   <br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeshan-Oshitha&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=16)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeshan-Oshitha&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=16&cache_seconds=0)
 
 
   
