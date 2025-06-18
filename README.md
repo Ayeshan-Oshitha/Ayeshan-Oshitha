@@ -149,7 +149,7 @@
   <br/>
   ![](https://github-readme-stats.vercel.app/api?username=Ayeshan-Oshitha&theme=jolly&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=0)
   <br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeshan-Oshitha&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=16&cache_seconds=0&exclude_repo=Tutorial--Mosh--Python,Tutorial--Mosh--JavaScript)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeshan-Oshitha&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=16&cache_seconds=0&exclude_repo=Tutorial--Mosh--Python,Tutorial--Mosh--JavaScript,Tutorial--Mosh--TypeScript)
   <!--
    <br/>
   ![Top Langs](https://github-readme-stats-one-psi-94.vercel.app/api/top-langs/?username=Ayeshan-Oshitha&count_private=true&show_org=true&layout=compact&theme=jolly&cache_seconds=0)
