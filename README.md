@@ -23,7 +23,7 @@ Hi! I’m Ayeshan Oshitha, an IT undergraduate at the University of Moratuwa wit
 ## :hammer_and_wrench: My Favourite Tools 
 
 	
-####  Programming languages
+###  Programming languages
 
 <div align="left" style="font-size: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
@@ -37,7 +37,7 @@ Hi! I’m Ayeshan Oshitha, an IT undergraduate at the University of Moratuwa wit
 
 <br/>
 
-####  Frameworks & Libraries
+###  Frameworks & Libraries
 
 <div align="left" style="font-size: 30px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
@@ -54,7 +54,7 @@ Hi! I’m Ayeshan Oshitha, an IT undergraduate at the University of Moratuwa wit
 
 <!-- 🗄🧰👨‍💻💻 -->
 
-####  Database & ORM
+###  Database & ORM
 
 <div align="left" style="font-size: 30px;">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="70"/>
@@ -66,7 +66,7 @@ Hi! I’m Ayeshan Oshitha, an IT undergraduate at the University of Moratuwa wit
 
 <br/>
 
-####  DevOps Tools
+###  DevOps Tools
 
 <div align="left" style="font-size: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
