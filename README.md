@@ -23,9 +23,9 @@ Hi! I’m Ayeshan Oshitha, an IT undergraduate at the University of Moratuwa wit
 ## :hammer_and_wrench: My Favourite Tools 
 
 	
-###  Programming languages
+####  Programming languages
 
-<div align="center" style="font-size: 30px;">
+<div align="left" style="font-size: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
@@ -37,9 +37,9 @@ Hi! I’m Ayeshan Oshitha, an IT undergraduate at the University of Moratuwa wit
 
 <br/>
 
-###  Frameworks & Libraries
+####  Frameworks & Libraries
 
-<div align="center" style="font-size: 30px;">
+<div align="left" style="font-size: 30px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" width="50"/>
@@ -54,9 +54,9 @@ Hi! I’m Ayeshan Oshitha, an IT undergraduate at the University of Moratuwa wit
 
 <!-- 🗄🧰👨‍💻💻 -->
 
-###  Database & ORM
+####  Database & ORM
 
-<div align="center" style="font-size: 30px;">
+<div align="left" style="font-size: 30px;">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="70"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="70"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" width="70" alt="MSSQL"/>
@@ -66,9 +66,9 @@ Hi! I’m Ayeshan Oshitha, an IT undergraduate at the University of Moratuwa wit
 
 <br/>
 
-###  DevOps Tools
+####  DevOps Tools
 
-<div align="center" style="font-size: 30px;">
+<div align="left" style="font-size: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="60" />
@@ -78,7 +78,7 @@ Hi! I’m Ayeshan Oshitha, an IT undergraduate at the University of Moratuwa wit
 
 ###  Software and Tools
 
-<div align="center" >
+<div align="left" >
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" />
